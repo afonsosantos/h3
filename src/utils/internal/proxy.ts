@@ -8,7 +8,6 @@ export const ignoredHeaders = new Set([
   "keep-alive",
   "upgrade",
   "expect",
-  "host",
   "accept",
 ]);
 
